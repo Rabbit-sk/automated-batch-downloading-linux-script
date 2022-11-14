@@ -1,5 +1,5 @@
-# download-after-login-linux-script
-This is a Bash script for automated batch downloading. 
+# automated-batch-downloading-linux-script 
+This is a Bash script for automated batch downloading also of files which are accessible only after login.
 
 It downloads each file listed in links.txt to specified folder. It allows easy grouping of downloaded files.
 
